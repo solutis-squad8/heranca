@@ -1,7 +1,7 @@
 # Exercicio herança
 
-Questão 1 e 2 - Leonardo\n
-Questao 3 - Elio\n
-Questao 4 - Victor\n
-Questao 5 - Cainan\n
+Questão 1 e 2 - Leonardo  
+Questao 3 - Elio  
+Questao 4 - Victor  
+Questao 5 - Cainan  
 Questao 6 - Alisson
